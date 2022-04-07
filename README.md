@@ -1,8 +1,8 @@
 <p align="center">
   <img 
-    width="300"
-    height="300"
-    src="images/profile picture.jpg"
+    width="250"
+    height="250"
+    src="images/profilepicture.jpg"
   >
 </p>
 
