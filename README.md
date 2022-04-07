@@ -2,7 +2,7 @@
   <img 
     width="250"
     height="250"
-    src="images/profilepicture.jpg"
+    src="images/profile.jpg"
   >
 </p>
 
