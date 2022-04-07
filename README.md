@@ -2,7 +2,7 @@
   <img 
     width="300"
     height="300"
-    src="https://github.com/moni2096/moni2096.github.io/blob/main/images/profile%20picture.jpg"
+    src="images/profile picture.jpg"
   >
 </p>
 
