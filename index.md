@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     width="200"
-    height="200"
+    height="300"
     src="images/profile.jpg"
   >
 </p>
